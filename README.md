@@ -3,7 +3,7 @@
 Deep Dive into Edge Computing and its Implementations
 
 This is the repository for [Edge Computing with Python
-](https://bpbonline.com/products/analyzing-blockchain-in-healthcare),published by BPB Publications. 
+](https://bpbonline.com/products/edge-computing-with-python),published by BPB Publications. 
 
 ## About the Book
 The success of IoT and Industry 4.0 depends on edge computing and better network performance. The book, ‘Edge Computing with Python,’ intends to provide a fully-connected embedded environment in which readers can experience the applications of edge computing and IoT in a professional context.
